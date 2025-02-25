@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AuthentifiAI-Udi.github.io/static/css/main.3b4171a7.css",
+    "main.js": "/AuthentifiAI-Udi.github.io/static/js/main.86935e05.js",
+    "index.html": "/AuthentifiAI-Udi.github.io/index.html",
+    "main.3b4171a7.css.map": "/AuthentifiAI-Udi.github.io/static/css/main.3b4171a7.css.map",
+    "main.86935e05.js.map": "/AuthentifiAI-Udi.github.io/static/js/main.86935e05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b4171a7.css",
+    "static/js/main.86935e05.js"
+  ]
+}
